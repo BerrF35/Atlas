@@ -1,7 +1,9 @@
 # Project Atlas — Engineering Blueprint Index
 
-Status: **Engineering blueprint complete, implementation not started**
-Blueprint version: **1.1** (2026-10-13)
+Status: **Stage 2 implementation complete · Persistent local database, tracking recorder, kinematic classifier, segmentation engine, MapLibre SDK, exports, and UI fully verified and integrated**
+Blueprint version: **2.0** (2026-10-13)
+Stage 1 UI Handoff: [UI_IMPLEMENTATION_HANDOFF.md](UI_IMPLEMENTATION_HANDOFF.md)
+Stage 2 Engine Handoff: [STAGE2_IMPLEMENTATION_HANDOFF.md](STAGE2_IMPLEMENTATION_HANDOFF.md)
 Owner: Engineering Director (planning model). Changes to this set follow the process in [MODEL_HANDOFF.md §7](MODEL_HANDOFF.md).
 
 ---
